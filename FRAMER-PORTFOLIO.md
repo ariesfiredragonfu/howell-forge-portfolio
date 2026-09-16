@@ -1,28 +1,28 @@
 # Howell Forge — live Framer portfolio
 
-Saved from this Windows session: **2026-09-09**
+**Production copy notes — updated 2026-09-16 (Chris approved)**
 
 ## Live URL (canonical)
 
 https://creative-types-663275.framer.app/
 
-Do not substitute `howellforge.com` (unrelated). Contact on the live site: `hello@chrishowell.design`
+Do not substitute `howellforge.com` (unrelated). Contact: `hello@chrishowell.design`
 
-## About (from live page)
+## About (production)
 
-Christopher Howell — Mechanical Design & AI-Augmented CAM Specialist (Howell Forge). Fusion 360 + Python + AI. From parametric model to verified toolpath.
+Christopher Howell — Mechanical Design & Full-Stack Engineer / AI-Augmented CAM (Howell Forge). FreeCAD · Fusion · Python. From parametric model to **3-axis shop-floor-verified** toolpath.
 
-## 3-card simulation grid (live)
+## Feature cards (production)
 
-1. **Picatinny toolpath** — 4-axis / adaptive clearing (CAM toolpaths)
-2. **SurfNDive fixture** — 3+2 / production-ready (workholding)
-3. **Python CAD API** — automation / parametric (Cursor → FreeCAD / CAM pipeline)
+1. **Picatinny Rail — 3-Axis CAM** — FreeCAD/Python → STEP → multi-op NC · shop-floor verified  
+   (NOT 4-axis / adaptive)
+2. **Python CAD API** — automation / parametric (Cursor → FreeCAD)
+3. ~~SurfNDive fixture~~ — **REMOVED** (not true; do not publish). Do not substitute Project_37 board card for this slot — use Picatinny NC.
 
-## Local CAD on this PC (not in Git yet)
+## Soft quantum
 
-- `C:\Users\Charles\Desktop\surfndive\Project_37.py` — FreeCAD honeycomb hull script
-- OBS clip: `C:\Users\Charles\Videos\2026-09-09 17-29-15.mp4`
+Caveated language only if needed. No “quantum-enabled Agent Forge” differentiator.
 
-## Follow-up (Ubuntu)
+## Apply in Framer
 
-Clone real GitHub/GitLab repos, add this URL to `surfndive` and `howell-forge-business` READMEs, then staging-first on Railway.
+Update the live Framer project to match the cards above, then publish.
